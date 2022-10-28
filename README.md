@@ -10,9 +10,9 @@
 
 - 🌱 I’m currently learning **Backend and Data Science**
 
-- 👨‍💻 All of my projects are available at [http://127.0.0.1:9090/](http://127.0.0.1:9090/)
+- 👨‍💻 All of my projects are available at <a href="http://127.0.0.1:9090/">porfolio</a>
 
-- 📝 I regularly write articles on [http://127.0.0.1:9090/#blog](http://127.0.0.1:9090/#blog)
+- 📝 I regularly write articles on <a href="http://127.0.0.1:9090/#blog">blog</a>
 
 - 💬 Ask me about **Django, Scikit-learn, Pandas, Numpy, Plotly**
 
