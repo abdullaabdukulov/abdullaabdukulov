@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **abduqulovabdulla3108@gmail.com**
 
-- 📄 Know about my experiences <a href="[http://127.0.0.1:9090/#blog](https://www.canva.com/design/DAFLzYAd2CI/EVO6mfmQAuSfPdwHaNhv6Q/view?utm_content=DAFLzYAd2CI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)">on resume</a>
+- 📄 Know about my experiences <a href="https://www.canva.com/design/DAFLzYAd2CI/EVO6mfmQAuSfPdwHaNhv6Q/viewutm_content=DAFLzYAd2CI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">on resume</a>
 
 - ⚡ Fun fact **I'm fast learner**
 
