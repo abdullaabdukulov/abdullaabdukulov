@@ -36,4 +36,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullaabdukulov&show_icons=true&locale=en" alt="abdullaabdukulov" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullaabdukulov&" alt="abdullaabdukulov" /></p>
-![snake gif](https://github.com/abdullaabdukulov/abdullaabdukulov/blob/output/github-contribution-grid-snake.gif)
+
+<img src="https://github.com/abdullaabdukulov/abdullaabdukulov/blob/output/github-contribution-grid-snake.gif" alt='gif'>
