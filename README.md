@@ -21,10 +21,7 @@
 - 📄 Know about my experiences on <a href="https://www.canva.com/design/DAFLzYAd2CI/EVO6mfmQAuSfPdwHaNhv6Q/view?utm_content=DAFLzYAd2CI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">resume</a>
 - ⚡ Fun fact **I'm fast learner**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://discord.gg/1001786917488168980" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1001786917488168980" height="30" width="40" /></a>
-</p>
+
 
 
 
