@@ -10,9 +10,9 @@
 
 - 🌱 I’m currently learning **Backend and Data Science**
 
-- 👨‍💻 All of my projects are available at <a href="https://abdullacoder.pythonanywhere.com/#portfolio">porfolio</a>
+- 👨‍💻 All of my projects are available at <a href="https://abdukulov.pythonanywhere.com/">porfolio</a>
 
-- 📝 I regularly write articles on <a href="https://abdullacoder.pythonanywhere.com/#blog">blog</a>
+- 📝 I regularly write articles on <a href="https://abdukulov.pythonanywhere.com/">blog</a>
 
 - 💬 Ask me about **Django, Scikit-learn, Pandas, Numpy, Plotly**
 
