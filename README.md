@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://abdukulov.pythonanywhere.com/">porfolio</a>
 
-- 📝 I regularly write articles on <a href="https://abdukulov.pythonanywhere.com/">blog</a>
+- 📝 I regularly write articles on <a href="https://medium.com/@abdulla_dev">blog</a>
 
 - 💬 Ask me about **Django, Scikit-learn, Pandas, Numpy, Plotly**
 
