@@ -41,6 +41,11 @@ Me</a></br>
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
 
+**Front-End**
+
+![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 **Data Science**
 
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
@@ -50,18 +55,37 @@ Me</a></br>
 ![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 
 **Tools**
 
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+**Learning**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![VueJs](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+
+## Stats
+
+<div style="display: flex; justify-content: space-between;">
+  <div>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullaabdukulov&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="abdullaabdukulov"/>
+  </div>
+  <div>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullaabdukulov&layout=compact&count_private=true&theme=gruvbox" alt="abdullaabdukulov" />
+  </div>
+</div>
+
 
 [//]: # (<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullaabdukulov&label=Profile%20views&color=0e75b6&style=flat" alt="abdullaabdukulov" /> </p>)
-
-
-[//]: # (<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullaabdukulov&" alt="abdullaabdukulov" /></p>)
 
 
 [//]: # (![C]&#40;https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&#41;)
