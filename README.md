@@ -2,6 +2,7 @@
   <img src="name.svg" alt="abdukulov"/>
 </h1>
 
+## Hi there 👋 I'm a Python developer
 <a href="https://www.youtube.com/@abdukulov">
   <img align="left" alt="YouTube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
