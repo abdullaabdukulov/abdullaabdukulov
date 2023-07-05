@@ -1,4 +1,6 @@
-## Hi there 👋 I'm a Python developer
+<h1 align="center">
+  <img src="name.svg" alt="abdukulov"/>
+</h1>
 
 <a href="https://www.youtube.com/@abdukulov">
   <img align="left" alt="YouTube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
