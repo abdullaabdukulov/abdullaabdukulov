@@ -14,7 +14,6 @@
           }
         }
         .snowflake {
-          color: #fff;
           font-size: 1.5em;
           font-family: Arial;
           text-shadow: 0 0 1px #000;
@@ -26,9 +25,9 @@
           font-weight: 900;
           letter-spacing: -.05em;
           text-align: center;
-          background: -webkit-linear-gradient(right, #f2f3f4, #000);
-          background: linear-gradient(270deg, #f2f3f4 0, #000);
-          background-size: 200%;
+          background: -webkit-linear-gradient(right, #f2f3f4, #000, #f2f3f4, #000);
+          background: linear-gradient(270deg, #f2f3f4 0, #000, #f2f3f4, #000);
+          background-size: 400%;
           background-clip: text;
           -webkit-background-clip: text;
           -webkit-text-fill-color: transparent;
@@ -107,22 +106,15 @@
         }
       </style>
       <h1>Abdulla Abdukulov</h1>
-      <div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">💸</div>
-      <div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">💸</div>
-      <div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">🚀</div>
-      <div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">🚀</div>
-      <div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">💸</div>
-      <div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">💸</div>
-      <div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">🚀</div>
-      <div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">🚀</div>
-      <div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">💸</div>
-      <div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">💸</div>
-      <div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">🚀</div>
-      <div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">🚀</div>
-      <div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">💸</div>
-      <div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">💸</div>
-      <div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">🚀</div>
-      <div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">🚀</div>
+      <div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">💻</div>
+      <div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">💰</div>
+      <div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">💻</div>
+      <div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">💰</div>
+      <div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">💻</div>
+      <div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">💰</div>
+      <div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">💻</div>
+      <div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">💰</div>
+      <div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">💻</div>
     </div>
   </foreignObject>
 </svg>
