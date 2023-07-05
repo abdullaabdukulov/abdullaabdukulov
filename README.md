@@ -80,7 +80,7 @@ Me</a></br>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullaabdukulov&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="abdullaabdukulov"/>
   </div>
   <div>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullaabdukulov&layout=compact&count_private=true&theme=gruvbox" alt="abdullaabdukulov" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullaabdukulov&theme=blue-green" alt="abdullaabdukulov" />
   </div>
 </div>
 
