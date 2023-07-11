@@ -5,13 +5,13 @@
 ## Hi there 👋 I'm a Python developer
 
 <a href="https://www.youtube.com/@abdukulov">
-  <img align="left" alt="YouTube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+  <img align="left" alt="YouTube" width="22px" src="https://www.svgrepo.com/show/13671/youtube.svg"/>
 </a>
 <a href="https://discord.com/channels/@abdukulov">
-  <img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Discord" width="22px" src="https://www.svgrepo.com/show/353655/discord-icon.svg" />
 </a>
 <a href="https://www.linkedin.com/in/abdulla-dev/">
-  <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />
 </a>
 
 <br>
